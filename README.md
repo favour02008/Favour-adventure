@@ -1,14 +1,17 @@
-# Favour's Adventure 🎮
+# Favour Study 📚
 
-A mobile-friendly HTML5 JavaScript adventure game.
+A colorful Android SHS/WASSCE study app.
 
-## Controls
-- Desktop: Arrow keys
-- Android/mobile: on-screen buttons
-- R: restart
+## Current features
+- Colorful study dashboard
+- Core Mathematics, Physics, Chemistry, Biology, English and Computing
+- Practice-question interface
+- Progress and study streak UI
+- Premium plans: GH₵15 monthly and GH₵200 lifetime
+- Paystack checkout placeholder ready for secure backend integration
 
-## Goal
-Collect stars, avoid enemies, and reach the purple portal. Complete all 3 levels to win.
+## Android
+The project builds an Android APK through Codemagic.
 
-## Run
-Open index.html in a browser.
+## Important
+Paystack secret keys and payout details must never be stored in this public repository.
